@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Lab1_2.WinCSCourse2023.Lab1.Exercise_1.Properties
+namespace Lab1_5a.Properties
 {
 
 
