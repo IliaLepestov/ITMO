@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{AEF7E0FF-D147-4D58-ADF5-E8ED6953D583}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>ITMO.WinCSCourse2023.Lab1.Exercise_4</RootNamespace>
-    <AssemblyName>ITMO.WinCSCourse2023.Lab1.Exercise_4</AssemblyName>
+    <RootNamespace>Lab2_3</RootNamespace>
+    <AssemblyName>Lab2_3</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -74,6 +74,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
